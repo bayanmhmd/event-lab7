@@ -1,0 +1,26 @@
+{
+  "name": "event-lab7",
+  "version": "1.0.0",
+  "description": "lab7",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bayanmhmd/event-lab7.git"
+  },
+  "author": "bayan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bayanmhmd/event-lab7/issues"
+  },
+  "homepage": "https://github.com/bayanmhmd/event-lab7#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "superagent": "^5.1.1"
+  }
+}
